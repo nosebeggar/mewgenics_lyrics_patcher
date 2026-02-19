@@ -41,8 +41,7 @@ chmod +x patch.sh patch_wrapper.sh
 2. Add patch_wrapper.sh to your Steam Launch Options:
 3. Patching may take some time on Steam Deck.
 
-
-###Exceptions
+### Exceptions
 Do you like a certain song and do not want it removed? I like the moon song for example. Simply add the level name to exceptions.txt, this works on linux and windows.
 A picture with all the level names is attached. Naturally this contains SPOILERS!!!.
 
@@ -50,7 +49,7 @@ A picture with all the level names is attached. Naturally this contains SPOILERS
 
 ---
 
-##Reverting Changes
+## Reverting Changes
 
 To revert to the original music, use Steam’s Verify Game Files feature:
 Right-click Mewgenics in Steam → Properties → Local Files → Verify Integrity of Game Files.
@@ -58,13 +57,13 @@ Steam will restore any replaced or missing files.
 
 ---
 
-##Contributing
+## Contributing
 
 Pull requests are welcome!
 If you find bugs or have ideas to improve the patcher, feel free to submit a PR or open an issue.
 
 ---
 
-##License
+## License
 
 This software is provided "as is", without warranty of any kind. See LICENSE for details.
