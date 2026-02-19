@@ -45,7 +45,10 @@ chmod +x patch.sh patch_wrapper.sh
 Do you like a certain song and do not want it removed? I like the moon song for example. Simply add the level name to exceptions.txt, this works on linux and windows.
 A picture with all the level names is attached. Naturally this contains SPOILERS!!!.
 
+<details>
+  <summary>Spoiler warning</summary>
 ![Level Names](https://github.com/nosebeggar/mewgenics_lyrics_patcher/blob/ae2562d195e5d0f73402c131d75864bd36f2ff6a/SPOILER%20-%20LEVEL%20NAMES.PNG "Spoilers")
+</details>
 
 ---
 
